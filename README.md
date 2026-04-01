@@ -276,6 +276,3 @@ Migrar de simples *prompts* a **Patrones Agénticos** es lo que separa un experi
 
 La próxima vez que enfrentes un problema complejo, pregúntate: *¿Necesito un agente más inteligente, o necesito un mejor equipo de agentes?*
 
-***
-
-¿Te gustaría que generemos un pequeño repositorio en GitHub (con un `README.md` explicativo) estructurado con estos archivos para que la audiencia pueda clonarlo y probarlo localmente tras tu charla?
